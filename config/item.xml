@@ -1,0 +1,311 @@
+<?xml version="1.0"?>
+<itemlist>
+	<item id="0">
+		<Name>Empty</Name>
+		<Description>Empty</Description>
+		<Script>None</Script>
+		<Icon>empty</Icon>
+		<Tier>T0</Tier>
+		<Stats0>0</Stats0>
+		<Stats1>0</Stats1>
+		<Stats2>0</Stats2>
+		<Stats3>0</Stats3>
+		<Stats4>0</Stats4>
+		<Stats5>0</Stats5>
+		<Slot>0</Slot>
+	</item>
+	<item id="1">
+		<Name>Basic Staff</Name>
+		<Description>A wooden stick that can barely conjure any magic</Description>
+		<Script>None</Script>
+		<Icon>woodenstaff</Icon>
+		<Tier>T0</Tier>
+		<Stats0>0</Stats0>
+		<Stats1>10</Stats1>
+		<Stats2>5</Stats2>
+		<Stats3>0</Stats3>
+		<Stats4>10</Stats4>
+		<Stats5>0</Stats5>
+		<Slot>0</Slot>
+	</item>
+	<item id="2">
+		<Name>Energy Staff</Name>
+		<Description>A wooden staff with a white gem at the end</Description>
+		<Script>None</Script>
+		<Icon>energystaff</Icon>
+		<Tier>T1</Tier>
+		<Stats0>0</Stats0>
+		<Stats1>15</Stats1>
+		<Stats2>5</Stats2>
+		<Stats3>5</Stats3>
+		<Stats4>15</Stats4>
+		<Stats5>0</Stats5>
+		<Slot>0</Slot>
+	</item>
+	<item id="3">
+		<Name>Fire Staff</Name>
+		<Description>A wooden staff with a red gem at the end</Description>
+		<Script>None</Script>
+		<Icon>firestaff</Icon>
+		<Tier>T2</Tier>
+		<Stats0>0</Stats0>
+		<Stats1>20</Stats1>
+		<Stats2>5</Stats2>
+		<Stats3>5</Stats3>
+		<Stats4>30</Stats4>
+		<Stats5>0</Stats5>
+		<Slot>0</Slot>
+	</item>
+	<item id="4">
+		<Name>Ice Staff</Name>
+		<Description>A wooden staff with a blue gem at the end</Description>
+		<Script>None</Script>
+		<Icon>icestaff</Icon>
+		<Tier>T3</Tier>
+		<Stats0>0</Stats0>
+		<Stats1>25</Stats1>
+		<Stats2>5</Stats2>
+		<Stats3>5</Stats3>
+		<Stats4>40</Stats4>
+		<Stats5>0</Stats5>
+		<Slot>0</Slot>
+	</item>
+	<item id="5">
+		<Name>Lightning Staff</Name>
+		<Description>A magical wooden staff with a yellow gem at the end</Description>
+		<Script>None</Script>
+		<Icon>lightningstaff</Icon>
+		<Tier>T4</Tier>
+		<Stats0>0</Stats0>
+		<Stats1>30</Stats1>
+		<Stats2>5</Stats2>
+		<Stats3>5</Stats3>
+		<Stats4>50</Stats4>
+		<Stats5>0</Stats5>
+		<Slot>0</Slot>
+	</item>
+	<item id="6">
+		<Name>Magma Staff</Name>
+		<Description>A magical wooden staff with a ruby at the end</Description>
+		<Script>None</Script>
+		<Icon>magmastaff</Icon>
+		<Tier>T5</Tier>
+		<Stats0>0</Stats0>
+		<Stats1>40</Stats1>
+		<Stats2>5</Stats2>
+		<Stats3>5</Stats3>
+		<Stats4>60</Stats4>
+		<Stats5>0</Stats5>
+		<Slot>0</Slot>
+	</item>
+	<item id="7">
+		<Name>Amber Staff</Name>
+		<Description>A magical wooden staff with a piece of amber at the end</Description>
+		<Script>None</Script>
+		<Icon>amberstaff</Icon>
+		<Tier>T6</Tier>
+		<Stats0>0</Stats0>
+		<Stats1>40</Stats1>
+		<Stats2>5</Stats2>
+		<Stats3>5</Stats3>
+		<Stats4>70</Stats4>
+		<Stats5>0</Stats5>
+		<Slot>0</Slot>
+	</item>
+	<item id="8">
+		<Name>Staff of Light</Name>
+		<Description>A magical golden staff with a white diamond at the end</Description>
+		<Script>None</Script>
+		<Icon>lightstaff</Icon>
+		<Tier>T7</Tier>
+		<Stats0>0</Stats0>
+		<Stats1>50</Stats1>
+		<Stats2>5</Stats2>
+		<Stats3>5</Stats3>
+		<Stats4>80</Stats4>
+		<Stats5>0</Stats5>
+		<Slot>0</Slot>
+	</item>
+	<item id="9">
+		<Name>Staff of Dragons</Name>
+		<Description>A magical golden staff with a heart of a dragon at the end</Description>
+		<Script>None</Script>
+		<Icon>dragonstaff</Icon>
+		<Tier>T8</Tier>
+		<Stats0>0</Stats0>
+		<Stats1>60</Stats1>
+		<Stats2>5</Stats2>
+		<Stats3>5</Stats3>
+		<Stats4>90</Stats4>
+		<Stats5>0</Stats5>
+		<Slot>0</Slot>
+	</item>
+	<item id="10">
+		<Name>Staff of Knowledge</Name>
+		<Description>A magical golden staff with an emerald at the end</Description>
+		<Script>None</Script>
+		<Icon>knowledgestaff</Icon>
+		<Tier>T9</Tier>
+		<Stats0>0</Stats0>
+		<Stats1>70</Stats1>
+		<Stats2>5</Stats2>
+		<Stats3>5</Stats3>
+		<Stats4>100</Stats4>
+		<Stats5>0</Stats5>
+		<Slot>0</Slot>
+	</item>
+	<item id="11">
+		<Name>Staff of Darkness</Name>
+		<Description>A magical golden staff with a piece of obsidian at the end</Description>
+		<Script>None</Script>
+		<Icon>darknessstaff</Icon>
+		<Tier>T10</Tier>
+		<Stats0>0</Stats0>
+		<Stats1>80</Stats1>
+		<Stats2>5</Stats2>
+		<Stats3>5</Stats3>
+		<Stats4>110</Stats4>
+		<Stats5>0</Stats5>
+		<Slot>0</Slot>
+	</item>
+	<item id="12">
+		<Name>Staff of Wisdom</Name>
+		<Description>A magical golden staff with an amethyst at the end</Description>
+		<Script>None</Script>
+		<Icon>wisdomstaff</Icon>
+		<Tier>T11</Tier>
+		<Stats0>0</Stats0>
+		<Stats1>90</Stats1>
+		<Stats2>5</Stats2>
+		<Stats3>5</Stats3>
+		<Stats4>120</Stats4>
+		<Stats5>0</Stats5>
+		<Slot>0</Slot>
+	</item>
+	<item id="13">
+		<Name>Staff of the Cosmic Whole</Name>
+		<Description>A mythical golden staff that can only be wielded by those without a heart</Description>
+		<Script>None</Script>
+		<Icon>cosmicwholestaff</Icon>
+		<Tier>T12</Tier>
+		<Stats0>0</Stats0>
+		<Stats1>100</Stats1>
+		<Stats2>5</Stats2>
+		<Stats3>5</Stats3>
+		<Stats4>130</Stats4>
+		<Stats5>0</Stats5>
+		<Slot>0</Slot>
+	</item>
+	<item id="14">
+		<Name>Staff of the Vital Unity</Name>
+		<Description>A mythical golden staff that can only be wielded by those who are worthy</Description>
+		<Script>None</Script>
+		<Icon>vitalunitystaff</Icon>
+		<Tier>T13</Tier>
+		<Stats0>0</Stats0>
+		<Stats1>110</Stats1>
+		<Stats2>5</Stats2>
+		<Stats3>5</Stats3>
+		<Stats4>140</Stats4>
+		<Stats5>0</Stats5>
+		<Slot>0</Slot>
+	</item>
+	<item id="15">
+		<Name>Wooden Sword</Name>
+		<Description>A basic sword made out of wood</Description>
+		<Script>None</Script>
+		<Icon>woodensword</Icon>
+		<Tier>T0</Tier>
+		<Stats0>0</Stats0>
+		<Stats1>0</Stats1>
+		<Stats2>10</Stats2>
+		<Stats3>10</Stats3>
+		<Stats4>0</Stats4>
+		<Stats5>0</Stats5>
+		<Slot>0</Slot>
+	</item>
+	<item id="16">
+		<Name>Stone Sword</Name>
+		<Description>A sharp sword made out of stone</Description>
+		<Script>None</Script>
+		<Icon>stonesword</Icon>
+		<Tier>T1</Tier>
+		<Stats0>10</Stats0>
+		<Stats1>0</Stats1>
+		<Stats2>20</Stats2>
+		<Stats3>20</Stats3>
+		<Stats4>0</Stats4>
+		<Stats5>0</Stats5>
+		<Slot>0</Slot>
+	</item>
+	<item id="17">
+		<Name>Iron Sword</Name>
+		<Description>A sharp sword made out of iron</Description>
+		<Script>None</Script>
+		<Icon>ironsword</Icon>
+		<Tier>T2</Tier>
+		<Stats0>10</Stats0>
+		<Stats1>0</Stats1>
+		<Stats2>30</Stats2>
+		<Stats3>30</Stats3>
+		<Stats4>0</Stats4>
+		<Stats5>0</Stats5>
+		<Slot>0</Slot>
+	</item>
+	<item id="18">
+		<Name>Steel Sword</Name>
+		<Description>A sharp sword made out of steel	</Description>
+		<Script>None</Script>
+		<Icon>steelsword</Icon>
+		<Tier>T3</Tier>
+		<Stats0>10</Stats0>
+		<Stats1>0</Stats1>
+		<Stats2>40</Stats2>
+		<Stats3>30</Stats3>
+		<Stats4>0</Stats4>
+		<Stats5>0</Stats5>
+		<Slot>0</Slot>
+	</item>
+	<item id="19">
+		<Name>Blue Steel Sword</Name>
+		<Description>A sharp sword made out of blue steel</Description>
+		<Script>None</Script>
+		<Icon>bluesteelsword</Icon>
+		<Tier>T4</Tier>
+		<Stats0>10</Stats0>
+		<Stats1>10</Stats1>
+		<Stats2>40</Stats2>
+		<Stats3>40</Stats3>
+		<Stats4>0</Stats4>
+		<Stats5>0</Stats5>
+		<Slot>0</Slot>
+	</item>
+	<item id="20">
+		<Name>Archon Sword</Name>
+		<Description>A sharp sword made out of archon</Description>
+		<Script>None</Script>
+		<Icon>archonsword</Icon>
+		<Tier>T5</Tier>
+		<Stats0>10</Stats0>
+		<Stats1>10</Stats1>
+		<Stats2>50</Stats2>
+		<Stats3>50</Stats3>
+		<Stats4>0</Stats4>
+		<Stats5>0</Stats5>
+		<Slot>0</Slot>
+	</item>
+	<item id="21">
+		<Name>Dragonsoul Sword</Name>
+		<Description>A sharp sword made out of a metal infused with dragon magic</Description>
+		<Script>None</Script>
+		<Icon>dragonsoulsword</Icon>
+		<Tier>T6</Tier>
+		<Stats0>10</Stats0>
+		<Stats1>20</Stats1>
+		<Stats2>60</Stats2>
+		<Stats3>50</Stats3>
+		<Stats4>10</Stats4>
+		<Stats5>0</Stats5>
+		<Slot>0</Slot>
+	</item>
+</itemlist>

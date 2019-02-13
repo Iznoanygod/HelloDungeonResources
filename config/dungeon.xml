@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<dungeonlist>
+	<dungeon id="0">
+		<Name>Bright Forest</Name>
+		<background>forest</background>
+		<icon>brightforest</icon>
+		<difficulty>1</difficulty>
+		<minlevel>1</minlevel>
+		<enemyc>3</enemyc>
+		<enemy0>0</enemy0>
+		<enemy1>1</enemy1>
+		<enemy2>2</enemy2>
+		<reward>100</reward>
+	</dungeon>
+	<dungeon id="1">
+		<Name>Pirate Cave</Name>
+		<background>forest</background>
+		<icon>piratecave</icon>
+		<difficulty>1</difficulty>
+		<minlevel>1</minlevel>
+		<enemyc>8</enemyc>
+		<enemy0>1</enemy0>
+		<enemy1>2</enemy1>
+		<enemy2>3</enemy2>
+		<enemy3>4</enemy3>
+		<enemy4>5</enemy4>
+		<enemy5>6</enemy5>
+		<enemy6>7</enemy6>
+		<enemy7>8</enemy7>
+		<reward>100</reward>
+	</dungeon>
+</dungeonlist>
