@@ -10,9 +10,10 @@
 		<basestat0>40</basestat0>
 		<basestat1>50</basestat1>
 		<basestat2>10</basestat2>
-		<basestat3>30</basestat3>
+		<basestat3>20</basestat3>
 		<basestat4>60</basestat4>
-		<basestat5>30</basestat5>
+		<basestat5>50</basestat5>
+		<basestat6>30</basestat6>
 		<curve>1</curve>
 		<unlock>1</unlock>
 		<move0>0</move0>
@@ -22,7 +23,7 @@
 	</class>
 	<class id="1">
 		<Name>Mage</Name>
-		<Description>He's the local mage of his town, he deals with larger scale threats that occur around the area</Description>
+		<Description>He's the local mage of his town, he deals with threats that occur around the area</Description>
 		<Sprite>mage</Sprite>
 		<Type>magic</Type>
 		<starter>false</starter>
@@ -30,9 +31,10 @@
 		<basestat0>60</basestat0>
 		<basestat1>70</basestat1>
 		<basestat2>15</basestat2>
-		<basestat3>40</basestat3>
+		<basestat3>30</basestat3>
 		<basestat4>80</basestat4>
-		<basestat5>40</basestat5>
+		<basestat5>70</basestat5>
+		<basestat6>40</basestat6>
 		<curve>2</curve>
 		<unlock>2</unlock>
 		<move0>0</move0>
@@ -50,9 +52,10 @@
 		<basestat0>80</basestat0>
 		<basestat1>85</basestat1>
 		<basestat2>25</basestat2>
-		<basestat3>65</basestat3>
+		<basestat3>55</basestat3>
 		<basestat4>100</basestat4>
-		<basestat5>50</basestat5>
+		<basestat5>90</basestat5>
+		<basestat6>50</basestat6>
 		<curve>2</curve>
 		<unlock>2</unlock>
 		<move0>0</move0>
@@ -71,8 +74,9 @@
 		<basestat1>50</basestat1>
 		<basestat2>10</basestat2>
 		<basestat3>30</basestat3>
-		<basestat4>60</basestat4>
-		<basestat5>30</basestat5>
+		<basestat4>20</basestat4>
+		<basestat5>90</basestat5>
+		<basestat6>50</basestat6>
 		<curve>2</curve>
 		<unlock>4</unlock>
 		<move0>0</move0>
@@ -92,7 +96,8 @@
 		<basestat2>10</basestat2>
 		<basestat3>30</basestat3>
 		<basestat4>60</basestat4>
-		<basestat5>30</basestat5>
+		<basestat5>90</basestat5>
+		<basestat6>50</basestat6>
 		<curve>1</curve>
 		<unlock>5</unlock>
 		<move0>0</move0>
@@ -112,7 +117,8 @@
 		<basestat2>10</basestat2>
 		<basestat3>30</basestat3>
 		<basestat4>60</basestat4>
-		<basestat5>30</basestat5>
+		<basestat5>90</basestat5>
+		<basestat6>50</basestat6>
 		<curve>2</curve>
 		<unlock>5</unlock>
 		<move0>0</move0>
@@ -132,7 +138,8 @@
 		<basestat2>10</basestat2>
 		<basestat3>30</basestat3>
 		<basestat4>60</basestat4>
-		<basestat5>30</basestat5>
+		<basestat5>90</basestat5>
+		<basestat6>50</basestat6>
 		<curve>1</curve>
 		<unlock>7</unlock>
 		<move0>0</move0>
@@ -152,7 +159,8 @@
 		<basestat2>10</basestat2>
 		<basestat3>30</basestat3>
 		<basestat4>60</basestat4>
-		<basestat5>30</basestat5>
+		<basestat5>90</basestat5>
+		<basestat6>50</basestat6>
 		<curve>1</curve>
 		<unlock>8</unlock>
 		<move0>0</move0>
@@ -172,7 +180,8 @@
 		<basestat2>10</basestat2>
 		<basestat3>30</basestat3>
 		<basestat4>60</basestat4>
-		<basestat5>30</basestat5>
+		<basestat5>90</basestat5>
+		<basestat6>50</basestat6>
 		<curve>1</curve>
 		<unlock>8</unlock>
 		<move0>0</move0>
@@ -192,7 +201,8 @@
 		<basestat2>10</basestat2>
 		<basestat3>30</basestat3>
 		<basestat4>60</basestat4>
-		<basestat5>30</basestat5>
+		<basestat5>90</basestat5>
+		<basestat6>50</basestat6>
 		<curve>1</curve>
 		<unlock>10</unlock>
 		<move0>0</move0>
@@ -212,7 +222,8 @@
 		<basestat2>10</basestat2>
 		<basestat3>30</basestat3>
 		<basestat4>60</basestat4>
-		<basestat5>30</basestat5>
+		<basestat5>90</basestat5>
+		<basestat6>50</basestat6>
 		<curve>1</curve>
 		<unlock>11</unlock>
 		<move0>0</move0>
@@ -232,7 +243,8 @@
 		<basestat2>10</basestat2>
 		<basestat3>30</basestat3>
 		<basestat4>60</basestat4>
-		<basestat5>30</basestat5>
+		<basestat5>90</basestat5>
+		<basestat6>50</basestat6>
 		<curve>1</curve>
 		<unlock>11</unlock>
 		<move0>0</move0>
@@ -252,7 +264,8 @@
 		<basestat2>10</basestat2>
 		<basestat3>30</basestat3>
 		<basestat4>60</basestat4>
-		<basestat5>30</basestat5>
+		<basestat5>90</basestat5>
+		<basestat6>50</basestat6>
 		<curve>1</curve>
 		<unlock>13</unlock>
 		<move0>0</move0>
@@ -272,7 +285,8 @@
 		<basestat2>10</basestat2>
 		<basestat3>30</basestat3>
 		<basestat4>60</basestat4>
-		<basestat5>30</basestat5>
+		<basestat5>90</basestat5>
+		<basestat6>50</basestat6>
 		<curve>1</curve>
 		<unlock>14</unlock>
 		<move0>0</move0>
@@ -292,7 +306,8 @@
 		<basestat2>10</basestat2>
 		<basestat3>30</basestat3>
 		<basestat4>60</basestat4>
-		<basestat5>30</basestat5>
+		<basestat5>90</basestat5>
+		<basestat6>50</basestat6>
 		<curve>1</curve>
 		<unlock>14</unlock>
 		<move0>0</move0>

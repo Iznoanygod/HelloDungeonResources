@@ -9,7 +9,8 @@
 		<basestat2>20</basestat2>
 		<basestat3>20</basestat3>
 		<basestat4>20</basestat4>
-		<basestat5>10</basestat5>
+		<basestat5>20</basestat5>
+		<basestat6>10</basestat6>
 		<sprite>ikuppi</sprite>
 		<multiplier>50</multiplier>
 		<drop0>0</drop0>
@@ -37,7 +38,8 @@
 		<basestat2>30</basestat2>
 		<basestat3>30</basestat3>
 		<basestat4>30</basestat4>
-		<basestat5>20</basestat5>
+		<basestat5>30</basestat5>
+		<basestat6>20</basestat6>
 		<sprite>banunu</sprite>
 		<multiplier>50</multiplier>
 		<drop0>0</drop0>
@@ -65,7 +67,8 @@
 		<basestat2>40</basestat2>
 		<basestat3>40</basestat3>
 		<basestat4>40</basestat4>
-		<basestat5>30</basestat5>
+		<basestat5>40</basestat5>
+		<basestat6>30</basestat6>
 		<sprite>sirsir</sprite>
 		<multiplier>50</multiplier>
 		<drop0>0</drop0>

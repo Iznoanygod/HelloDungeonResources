@@ -12,6 +12,7 @@
 		<Stats3>0</Stats3>
 		<Stats4>0</Stats4>
 		<Stats5>0</Stats5>
+		<Stats6>0</Stats6>
 		<Slot>0</Slot>
 	</item>
 	<item id="1">
@@ -22,10 +23,11 @@
 		<Tier>T0</Tier>
 		<Stats0>0</Stats0>
 		<Stats1>10</Stats1>
-		<Stats2>5</Stats2>
+		<Stats2>0</Stats2>
 		<Stats3>0</Stats3>
 		<Stats4>10</Stats4>
-		<Stats5>0</Stats5>
+		<Stats5>5</Stats5>
+		<Stats6>0</Stats6>
 		<Slot>0</Slot>
 	</item>
 	<item id="2">
@@ -36,10 +38,11 @@
 		<Tier>T1</Tier>
 		<Stats0>0</Stats0>
 		<Stats1>15</Stats1>
-		<Stats2>5</Stats2>
-		<Stats3>5</Stats3>
+		<Stats2>0</Stats2>
+		<Stats3>0</Stats3>
 		<Stats4>15</Stats4>
-		<Stats5>0</Stats5>
+		<Stats5>10</Stats5>
+		<Stats6>0</Stats6>
 		<Slot>0</Slot>
 	</item>
 	<item id="3">
@@ -50,10 +53,11 @@
 		<Tier>T2</Tier>
 		<Stats0>0</Stats0>
 		<Stats1>20</Stats1>
-		<Stats2>5</Stats2>
-		<Stats3>5</Stats3>
+		<Stats2>0</Stats2>
+		<Stats3>0</Stats3>
 		<Stats4>30</Stats4>
-		<Stats5>0</Stats5>
+		<Stats5>20</Stats5>
+		<Stats6>0</Stats6>
 		<Slot>0</Slot>
 	</item>
 	<item id="4">
@@ -64,10 +68,11 @@
 		<Tier>T3</Tier>
 		<Stats0>0</Stats0>
 		<Stats1>25</Stats1>
-		<Stats2>5</Stats2>
-		<Stats3>5</Stats3>
+		<Stats2>0</Stats2>
+		<Stats3>0</Stats3>
 		<Stats4>40</Stats4>
-		<Stats5>0</Stats5>
+		<Stats5>30</Stats5>
+		<Stats6>0</Stats6>
 		<Slot>0</Slot>
 	</item>
 	<item id="5">
@@ -78,10 +83,11 @@
 		<Tier>T4</Tier>
 		<Stats0>0</Stats0>
 		<Stats1>30</Stats1>
-		<Stats2>5</Stats2>
-		<Stats3>5</Stats3>
+		<Stats2>0</Stats2>
+		<Stats3>0</Stats3>
 		<Stats4>50</Stats4>
-		<Stats5>0</Stats5>
+		<Stats5>40</Stats5>
+		<Stats6>0</Stats6>
 		<Slot>0</Slot>
 	</item>
 	<item id="6">
@@ -92,10 +98,11 @@
 		<Tier>T5</Tier>
 		<Stats0>0</Stats0>
 		<Stats1>40</Stats1>
-		<Stats2>5</Stats2>
-		<Stats3>5</Stats3>
+		<Stats2>0</Stats2>
+		<Stats3>0</Stats3>
 		<Stats4>60</Stats4>
-		<Stats5>0</Stats5>
+		<Stats5>40</Stats5>
+		<Stats6>0</Stats6>
 		<Slot>0</Slot>
 	</item>
 	<item id="7">
@@ -106,10 +113,11 @@
 		<Tier>T6</Tier>
 		<Stats0>0</Stats0>
 		<Stats1>40</Stats1>
-		<Stats2>5</Stats2>
-		<Stats3>5</Stats3>
+		<Stats2>0</Stats2>
+		<Stats3>0</Stats3>
 		<Stats4>70</Stats4>
-		<Stats5>0</Stats5>
+		<Stats5>50</Stats5>
+		<Stats6>0</Stats6>
 		<Slot>0</Slot>
 	</item>
 	<item id="8">
@@ -120,10 +128,11 @@
 		<Tier>T7</Tier>
 		<Stats0>0</Stats0>
 		<Stats1>50</Stats1>
-		<Stats2>5</Stats2>
-		<Stats3>5</Stats3>
+		<Stats2>0</Stats2>
+		<Stats3>0</Stats3>
 		<Stats4>80</Stats4>
-		<Stats5>0</Stats5>
+		<Stats5>50</Stats5>
+		<Stats6>0</Stats6>
 		<Slot>0</Slot>
 	</item>
 	<item id="9">
@@ -134,10 +143,11 @@
 		<Tier>T8</Tier>
 		<Stats0>0</Stats0>
 		<Stats1>60</Stats1>
-		<Stats2>5</Stats2>
-		<Stats3>5</Stats3>
+		<Stats2>0</Stats2>
+		<Stats3>0</Stats3>
 		<Stats4>90</Stats4>
-		<Stats5>0</Stats5>
+		<Stats5>60</Stats5>
+		<Stats6>0</Stats6>
 		<Slot>0</Slot>
 	</item>
 	<item id="10">
@@ -148,10 +158,11 @@
 		<Tier>T9</Tier>
 		<Stats0>0</Stats0>
 		<Stats1>70</Stats1>
-		<Stats2>5</Stats2>
-		<Stats3>5</Stats3>
+		<Stats2>0</Stats2>
+		<Stats3>0</Stats3>
 		<Stats4>100</Stats4>
-		<Stats5>0</Stats5>
+		<Stats5>70</Stats5>
+		<Stats6>0</Stats6>
 		<Slot>0</Slot>
 	</item>
 	<item id="11">
@@ -162,10 +173,11 @@
 		<Tier>T10</Tier>
 		<Stats0>0</Stats0>
 		<Stats1>80</Stats1>
-		<Stats2>5</Stats2>
-		<Stats3>5</Stats3>
+		<Stats2>0</Stats2>
+		<Stats3>0</Stats3>
 		<Stats4>110</Stats4>
-		<Stats5>0</Stats5>
+		<Stats5>80</Stats5>
+		<Stats6>0</Stats6>
 		<Slot>0</Slot>
 	</item>
 	<item id="12">
@@ -176,10 +188,11 @@
 		<Tier>T11</Tier>
 		<Stats0>0</Stats0>
 		<Stats1>90</Stats1>
-		<Stats2>5</Stats2>
-		<Stats3>5</Stats3>
+		<Stats2>0</Stats2>
+		<Stats3>0</Stats3>
 		<Stats4>120</Stats4>
-		<Stats5>0</Stats5>
+		<Stats5>90</Stats5>
+		<Stats6>0</Stats6>
 		<Slot>0</Slot>
 	</item>
 	<item id="13">
@@ -190,10 +203,11 @@
 		<Tier>T12</Tier>
 		<Stats0>0</Stats0>
 		<Stats1>100</Stats1>
-		<Stats2>5</Stats2>
-		<Stats3>5</Stats3>
+		<Stats2>0</Stats2>
+		<Stats3>0</Stats3>
 		<Stats4>130</Stats4>
-		<Stats5>0</Stats5>
+		<Stats5>100</Stats5>
+		<Stats6>0</Stats6>
 		<Slot>0</Slot>
 	</item>
 	<item id="14">
@@ -204,10 +218,11 @@
 		<Tier>T13</Tier>
 		<Stats0>0</Stats0>
 		<Stats1>110</Stats1>
-		<Stats2>5</Stats2>
-		<Stats3>5</Stats3>
+		<Stats2>0</Stats2>
+		<Stats3>0</Stats3>
 		<Stats4>140</Stats4>
-		<Stats5>0</Stats5>
+		<Stats5>100</Stats5>
+		<Stats6>0</Stats6>
 		<Slot>0</Slot>
 	</item>
 	<item id="15">
@@ -222,6 +237,7 @@
 		<Stats3>10</Stats3>
 		<Stats4>0</Stats4>
 		<Stats5>0</Stats5>
+		<Stats6>0</Stats6>
 		<Slot>0</Slot>
 	</item>
 	<item id="16">
@@ -236,6 +252,7 @@
 		<Stats3>20</Stats3>
 		<Stats4>0</Stats4>
 		<Stats5>0</Stats5>
+		<Stats6>0</Stats6>
 		<Slot>0</Slot>
 	</item>
 	<item id="17">
@@ -250,6 +267,7 @@
 		<Stats3>30</Stats3>
 		<Stats4>0</Stats4>
 		<Stats5>0</Stats5>
+		<Stats6>0</Stats6>
 		<Slot>0</Slot>
 	</item>
 	<item id="18">
@@ -264,6 +282,7 @@
 		<Stats3>30</Stats3>
 		<Stats4>0</Stats4>
 		<Stats5>0</Stats5>
+		<Stats6>0</Stats6>
 		<Slot>0</Slot>
 	</item>
 	<item id="19">
@@ -278,6 +297,7 @@
 		<Stats3>40</Stats3>
 		<Stats4>0</Stats4>
 		<Stats5>0</Stats5>
+		<Stats6>0</Stats6>
 		<Slot>0</Slot>
 	</item>
 	<item id="20">
@@ -292,6 +312,7 @@
 		<Stats3>50</Stats3>
 		<Stats4>0</Stats4>
 		<Stats5>0</Stats5>
+		<Stats6>0</Stats6>
 		<Slot>0</Slot>
 	</item>
 	<item id="21">
@@ -304,8 +325,9 @@
 		<Stats1>20</Stats1>
 		<Stats2>60</Stats2>
 		<Stats3>50</Stats3>
-		<Stats4>10</Stats4>
+		<Stats4>0</Stats4>
 		<Stats5>0</Stats5>
+		<Stats6>0</Stats6>
 		<Slot>0</Slot>
 	</item>
 </itemlist>

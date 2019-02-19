@@ -6,6 +6,7 @@
 		<icon>brightforest</icon>
 		<difficulty>1</difficulty>
 		<minlevel>1</minlevel>
+		<unlock>1</unlock>
 		<enemyc>3</enemyc>
 		<enemy0>0</enemy0>
 		<enemy1>1</enemy1>
@@ -18,7 +19,8 @@
 		<icon>piratecave</icon>
 		<difficulty>1</difficulty>
 		<minlevel>1</minlevel>
-		<enemyc>8</enemyc>
+		<unlock>1</unlock>
+		<enemyc>1</enemyc>
 		<enemy0>1</enemy0>
 		<enemy1>2</enemy1>
 		<enemy2>3</enemy2>
